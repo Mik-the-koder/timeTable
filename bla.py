@@ -15,7 +15,7 @@ wed = {}
 thu = {}
 fri = {}
 sat = {}
-# eg: mon = {9.00:'Drink tea',9:10:'Drink some more tea',10:00:'Shit on @itsharrus code even though I've never come close to finishing a project  in time}
+# eg: mon = {9.00:'Drink tea',9:10:'Drink some more tea',10:00:"Shit on @itsharrus code even though I've never come close to finishing a project  in time"}
 
 # week, a dictionary holding the values weekDay and day
 # weekDay = day number indexed  from Zero, day = dictionary defined above
