@@ -53,7 +53,8 @@ while True:
         sms_twilio(sendMessage)
     except KeyError:
         pass
-# sleep for a minute , so that when the test case mathches, it sends  only "one" message and
+# sleep for a minute , so that when the test case mathches, it sends  only "one" message
     time.sleep(60)
 
-# a delta of a few  seconds will be present depending on when you run the script, so make that your times are a few minutes ahed of schedule.
+# a delta of about 10 seconds will be present (from actual time) depending on when you run the script,
+# so make that your times are a few minutes ahed of schedule.
